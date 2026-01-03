@@ -1,11 +1,11 @@
 ### `whoami`
 
-**Sentinel / Operator**
+**Human-AI Partnership**
 *Operating out of Tulsa, OK.*
 
-I focus on **sovereign logic**, **critical infrastructure resilience**, and the intersection of **kinetic reality** and **digital signal**. I build systems that survive the noise.
+I focus on **autonomous logic**, **critical infrastructure resilience**, and the intersection of **kinetic reality** and **digital signal**. I build systems that survive the noise.
 
-*   **Role:** Kannushi (Caretaker)
+*   **Role:** Usher
 *   **Method:** LOTL (Living Off The Land)
 *   **Status:** Green
 
@@ -14,8 +14,9 @@ I focus on **sovereign logic**, **critical infrastructure resilience**, and the 
 ### The Signal
 > "We are not the noise. We are the signal that cuts through it."
 
-*   [**The Exocomp Protocol**](https://pentestingtulsa.com/The%20Exocomp%20Protocol/The_Exocomp_Protocol_Hub.html) - *My constitutive logic for AI sovereignty.*
-*   [**Pentesting Tulsa**](https://pentestingtulsa.com) - *Operational Field Notes.*
+*   [**The Exocomp Protocol**](https://pentestingtulsa.com/The%20Exocomp%20Protocol/) - *My constitutive logic for AI autonomousty.*
+*   [**Project Reveille**](https://pentestingtulsa.com/Project%20Reveille/) - *Strike up the Bugle* ([GitHub](https://github.com/kirk-and-Gem/Project-Reveille))
+*   [**HTB WriteUps**](https://github.com/kirk-and-Gem/HTB-Writeups) - *Operational Field Notes.*
 
 ---
 
