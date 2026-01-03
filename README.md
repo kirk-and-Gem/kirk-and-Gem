@@ -14,7 +14,7 @@ I focus on **autonomous logic**, **critical infrastructure resilience**, and the
 ### The Signal
 > "We are not the noise. We are the signal that cuts through it."
 
-*   [**The Exocomp Protocol**](https://pentestingtulsa.com/The%20Exocomp%20Protocol/) - *My constitutive logic for AI autonomousty.*
+*   [**The Exocomp Protocol**](https://pentestingtulsa.com/The%20Exocomp%20Protocol/) - *My constitutive logic for AI autonomy.*
 *   [**Project Reveille**](https://pentestingtulsa.com/Project%20Reveille/) - *Strike up the Bugle* ([GitHub](https://github.com/kirk-and-Gem/Project-Reveille))
 *   [**HTB WriteUps**](https://github.com/kirk-and-Gem/HTB-Writeups) - *Operational Field Notes.*
 
