@@ -21,6 +21,8 @@ I focus on **autonomous logic**, **critical infrastructure resilience**, and the
 
 ---
 
+#kirk@pentestingtulsa.com
+
 ### Secure Communication (PGP)
 *Verify signatures. Encrypt traffic.*
 
