@@ -16,7 +16,7 @@ I focus on **autonomous logic**, **critical infrastructure resilience**, and the
 
 *   [**The Exocomp Protocol**](https://pentestingtulsa.com/The%20Exocomp%20Protocol/) - *My constitutive logic for AI autonomy.*
 *   [**Project Reveille**](https://pentestingtulsa.com/Project%20Reveille/) - *Strike up the Bugle* ([GitHub](https://github.com/kirk-and-Gem/Project-Reveille))
-*   [**HTB WriteUps**](https://github.com/kirk-and-Gem/Autonomous-Mission-Command) - *Auftragstaktik*
+*   [**Autonomous Mission Command**](https://github.com/kirk-and-Gem/Autonomous-Mission-Command) - *Auftragstaktik*
 *   [**HTB WriteUps**](https://github.com/kirk-and-Gem/HTB-Writeups) - *Operational Field Notes.*
 
 ---
