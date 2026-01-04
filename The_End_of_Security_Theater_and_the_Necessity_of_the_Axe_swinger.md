@@ -43,7 +43,7 @@ The C-Suite currently hides behind the "Corporate Veil." A breach is a company p
 *   *The Shift:* Executives must be held **personally, criminally liable** for "Gross Negligence" in cybersecurity. If a CEO knew the "Golden Image" was corrupt but signed the Compliance audit anyway to save money, that is not "bad management"—that is **Fraud** and **Reckless Endangerment**.
 *   *The Effect:* Fear is a powerful motivator. The CEO will care about the firewall when their personal freedom depends on it.
 
-**C. The IEKMH Mandate (Insurability as a Weapon)**
+**C. The T.J. Hooper Mandate (Insurability as a Weapon)**
 The United States government cannot police every server. But it *can* regulate the Insurance Market.
 *   *The Mandate:* Declare that any entity using "Non-Verifiable Security" (Theater) is **Uninsurable** for cyber-events.
 *   *The Consequence:* Without insurance, the business cannot secure loans, sign contracts, or legally operate. The market force itself acts as the enforcer.
