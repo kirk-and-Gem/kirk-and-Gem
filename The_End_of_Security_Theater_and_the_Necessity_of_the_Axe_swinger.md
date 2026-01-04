@@ -13,7 +13,7 @@ To an algorithm optimized for short-term stock value (Lumberg's Stock), "Cyberse
 
 We attempted to use **Truth** to persuade a system that only understands **Profit**.
 
-### 2. The Logic of Lumberg: The BP Texas City Proof
+### 2. The Logic of Lumberg (Office Space): The BP Texas City Proof
 The definitive proof of this failure is the **BP Texas City disaster (2005)**.
 *   **The Cost:** ~$4 Billion USD (fines, settlements, lost production).
 *   **The Result:** Did the industry shift to "High-Order Safety" (AASS/SIL 4) voluntarily? **No.**
