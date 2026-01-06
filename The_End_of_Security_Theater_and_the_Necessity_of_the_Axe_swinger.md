@@ -1,4 +1,9 @@
 # Cybersecurity as a direct existential threat to the survival of the business
+
+**Date:** January 02, 2026
+**Context:** The Failure of Security Evangelism / The Axe Swinger Protocol
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+
 ## The End of Security Theater and the Necessity of the Axe swinger
 
 ### 1. The Strategic Failure of "Awareness"
