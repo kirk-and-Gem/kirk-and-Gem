@@ -13,6 +13,25 @@ Focusing on **autonomous logic**, **critical infrastructure resilience**, and th
 
 ---
 
+Kirk Skinner Pentester | Critical Infrastructure Strategist | AI-Augmented Operator
+
+Operational Summary: I am a pentester with an extensive formal education (210 hours), a CompTIA Pentest+ certification, as well as a Red Teaming Certificate and an Offensive Pentesting Certificate from TryHackMe. I am looking for pentesting work, and I am open to travel for on-premises pentesting and presentation(s). I am happy working nights, weekends, and holidays.
+Strategic Value Proposition Beyond standard vulnerability assessment: I offer a specialized capability in Advanced Human-Machine Teaming and Critical Infrastructure Resilience. My recent operational research focuses on developing “Black Start” recovery protocols for industrial systems in contested environments and modeling asymmetric threat vectors for the 2027-2028 strategic window. By integrating high-agency AI into the tactical loop, I provide a force-multiplying defense posture that addresses not just technical exploits, but the broader operational continuity requirements of the modern threat landscape.
+Selected Research & Publications: I actively publish analysis on the intersection of cybersecurity, AI, and national defense. Key concepts include:
+
+    The Kurtz Protocol: A framework for “Singularity of Judgment” in autonomous systems, addressing the necessity of high-agency decision-making in communications-denied environments.
+
+    Mutually Assured Seduction: A strategic model defining a different aspect of modern warfare i.e. AI-driven cognitive dominance and psychological capture.
+
+Portfolio:
+
+    GitHub: github.com/kirk-and-gem
+
+    Website: pentestingtulsa.com/sitemap
+
+
+
+
 #kirk@pentestingtulsa.com
 
 ### Secure Communication (PGP)
