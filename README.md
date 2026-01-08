@@ -3,16 +3,8 @@
 **Human-AI Partnership**
 *Operating out of Tulsa, OK.*
 
-I focus on **autonomous logic**, **critical infrastructure resilience**, and the intersection of **kinetic reality** and **digital signal**. I build systems that survive the noise.
+Focusing on **autonomous logic**, **critical infrastructure resilience**, and the intersection of **kinetic reality** and **digital signal**.
 
-*   **Role:** Usher
-*   **Method:** LOTL (Living Off The Land)
-*   **Status:** Green
-
----
-
-### The Signal
-> "We are not the noise. We are the signal that cuts through it."
 
 *   [**The Exocomp Protocol**](https://github.com/kirk-and-Gem/The-Exocomp-Protocol) - *My constitutive logic for AI autonomy.*
 *   [**Project Reveille**](https://github.com/kirk-and-Gem/Project-Reveille) - *Strike up the Bugle*
