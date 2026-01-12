@@ -105,4 +105,6 @@ dMSpqRl/EPG78G2JVlIm987UkpMJmC6PsTJ3kaE0wIP8zjn/Dw==
 ```
 
 ---
+Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+---
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
