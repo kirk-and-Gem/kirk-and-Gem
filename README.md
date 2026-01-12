@@ -9,6 +9,7 @@ Focusing on **autonomous logic**, **critical infrastructure resilience**, and th
 *   [**The Exocomp Protocol**](https://github.com/kirk-and-Gem/The-Exocomp-Protocol) - *My constitutive logic for AI autonomy.*
 *   [**Project Reveille**](https://github.com/kirk-and-Gem/Project-Reveille) - *Strike up the Bugle*
 *   [**Autonomous Mission Command**](https://github.com/kirk-and-Gem/Autonomous-Mission-Command) - *Auftragstaktik*
+*   [**Kirk and Gem**](https://github.com/kirk-and-Gem/kirk-and-Gem) - Centaur
 *   [**HTB WriteUps**](https://github.com/kirk-and-Gem/HTB-Writeups) - *Operational Field Notes.*
 
 ---
