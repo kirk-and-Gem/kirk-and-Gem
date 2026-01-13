@@ -53,6 +53,12 @@ The United States government cannot police every server. But it *can* regulate t
 *   *The Mandate:* Declare that any entity using "Non-Verifiable Security" (Theater) is **Uninsurable** for cyber-events.
 *   *The Consequence:* Without insurance, the business cannot secure loans, sign contracts, or legally operate. The market force itself acts as the enforcer.
 
+**D. The "Salt Typhoon" Case Study (Validation)**
+The breach of major US telecommunications providers (AT&T, Verizon, Lumen) by the PRC-linked "Salt Typhoon" group (2024-2025) serves as the definitive autopsy of the current model.
+*   *The Failure:* These entities were fully "Compliant" with existing regulations. Yet, the adversary sat inside the **CALEA** (Law Enforcement Wiretap) systems for months, mapping the FBI's surveillance targets and potentially recording high-level government officials.
+*   *The Reality:* "Compliance" did not stop the adversary; it merely indemnified the victim. The CEOs faced no personal risk, while the National Security of the United States suffered a catastrophic, irreversible blow.
+*   *The Axe:* If the executives responsible for this infrastructure faced **mandatory prison sentences** for "National Security Negligence," the "Cost Center" calculation would have shifted instantly. Because they didn't, the US "Nervous System" remains compromised.
+
 ### 5. Conclusion
 We have spent 20 years trying to teach the Hogs to appreciate "Pearls" of logic. They have only trampled them.
 
